@@ -642,5 +642,14 @@
       "github": "https://github.com/ekam-walia"
     },
     "postCount": 1
+  },
+  "michael-kantor": {
+    "handle": "michael-kantor",
+    "name": "Michael Kantor",
+    "avatar": null,
+    "bio": "President of HOL. Works on open-source AI agent standards and developer security tooling.",
+    "socials": {
+      "github": "https://github.com/kantorcodes"
+    }
   }
 }
